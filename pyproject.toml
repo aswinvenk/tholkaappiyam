@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tholkappiyam"
+version = "0.0.1"
+authors = [
+  { name="Aswin Venkat", email="aswinvenk8@gmail.com" },
+  { name="Sathishkumar Paramasivam", email = "i18nsolutions@gmail.com" },
+]
+description = "Tholkaappiyam - A library for Python to globalize the ancient text of the oldest language in the world, Tamil"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Natural Language :: Tamil",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/aswinvenk/tholkaappiyam"
+"Bug Tracker" = "https://github.com/aswinvenk/tholkaappiyam/issues"
