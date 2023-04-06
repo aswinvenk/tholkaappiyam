@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/tholkaappiyam/__init__.py
+src/tholkaappiyam/thol.py
+src/tholkaappiyam.egg-info/PKG-INFO
+src/tholkaappiyam.egg-info/SOURCES.txt
+src/tholkaappiyam.egg-info/dependency_links.txt
+src/tholkaappiyam.egg-info/top_level.txt
