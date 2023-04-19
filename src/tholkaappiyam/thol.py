@@ -1,5 +1,8 @@
 import json
 import pandas as pd
+__version__ = '0.0.2'
+__author__ = 'i18n Solutions'
+
 
 tk=[
   {
