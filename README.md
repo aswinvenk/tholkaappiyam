@@ -3,7 +3,7 @@ Tholkaappiyam -  A library for Python to globalize the ancient text of the oldes
 
 ## A Python package to understand Tholkaappiyam in English and use it for enhancing NLP
 Tholkaappiyam is the most ancient extant Tamil grammar text and the oldest extant long work of Tamil literature.
-In order to make people all over the world understand Tamil, **i18n Solutions Salem**, have developed this package based on the work of P. S. Subrahmanya Sastri.
+In order to make people all over the world understand Tamil, **i18n Solutions Salem**, have developed this package.
 
 > Developed by i18nSolutions <i18nsolutions@gmail.com> 
 > Backend Developer : Aswin Venkat <aswinvenk8@gmail.com>
