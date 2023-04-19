@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tholkaappiyam"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Aswin Venkat", email="aswinvenk8@gmail.com" },
   { name="Sathishkumar Paramasivam", email = "i18nsolutions@gmail.com" },

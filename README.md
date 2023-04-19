@@ -5,7 +5,9 @@ Tholkaappiyam -  A library for Python to globalize the ancient text of the oldes
 Tholkaappiyam is the most ancient extant Tamil grammar text and the oldest extant long work of Tamil literature.
 In order to make people all over the world understand Tamil, **i18n Solutions Salem**, have developed this package based on the work of P. S. Subrahmanya Sastri.
 
-> Created by Aswin Venkat <aswinvenk8@gmail.com>
+> Developed by i18nSolutions <i18nsolutions@gmail.com> 
+> Backend Developer : Aswin Venkat <aswinvenk8@gmail.com>
+> Data Creation : Pugazhendi Neduncheralathan, Sai Sidhartha, Chandru T, Yashika Murugesan, Abisheak Sabari, Bala Murugan, Niyazuddeen Navab, Gokula krishnan
 
 Installation
 ============
@@ -35,11 +37,6 @@ from tholkaappiyam import thol
 About Tholkaappiyam
 ===================
 Tolkāppiyam or Tholkaappiyam has **3 Adhikaarams**. Each Adhikaaram has **9 Iyals** in them. Each Iyal have a specific number of songs/paadal (or Sutrās). Songs are classified into **Categories**. If we analyse the songs as categories, it is easier to understand the core meaning of the Sutrās.
-
-P. S. Subrahmanya Sastri
-========================
-Subrahmanya Sastri was the first person to translate Tolkāppiyam into English. He worked on the Tolkappiyam, which he later translated into English. The translation of **Ezhuthathikaram** and **Poruladhikaram** were published by the Kuppuswami Sastri Research Institute, while **Solladhikaram** was published by Annamalai University.
-We have referred to Subrahmanya Sastri's text on **Tholkaappiyam in Roman transliteration and English translation**.
 
 History of Tholkaappiyam
 ========================
@@ -156,3 +153,15 @@ n=tholkaappiyam.Iyal(1,3).categories_paadal_count_dict()
 for i in n:
     print(i,'\t',n[i])
 ```
+
+
+REFERENCES:
+===========
+
+1. **Tolkāppiyam in Roman transliteration and English translation** by Pandit S. Subrahmanya Sastri
+
+P.S. Subrahmanya Sastri was the first person to translate Tolkāppiyam into English. The translation of **Ezhuthadhikaaram** and **Poruladhikaaram** were published by the Kuppuswami Sastri Research Institute, while **Soladhikaaram** was published by Annamalai University. His English translation received encomiums from linguists across the world.
+
+2. **Tolkāpiyam in English** by Dr. V. Murugan
+
+This translation has been done by a professor of English, Dr. V. Murugan, who made his translation following the prosodic mood of the Tamil epic.

@@ -12218,7 +12218,6 @@ tk=[
 
 def about_tholkaappiyam():
     print("""
-
 Tolkāpiyam (tholkaappiyam) is an endeavour on the grammar of the Tamil vernacular and the initial extant work of Tamil publications and linguistics.
 It is the most ancient extanct of Tamil Grammar Text and the oldest extant long work of Tamil literature
 
@@ -12229,11 +12228,12 @@ It has 3 adhikaaram (volumes) namely:
 3. பொருளதிகாரம்
 
 Each adhikaaram has 9 iyals (chapters)
-Under each iyal, you will be having certain number of sutras or songs.
+Under each Iyal have a specific number of songs/paadal (or Sutrās).
+Songs are classified into Categories
+If we analyse the songs as categories, it is easier to understand the core meaning of the Sutrās.
 
-P. S. Subrahmanya Sastri (1890-1978) was a Sanskrit scholar well versed with Tamil Grammar.
-He was the First person to Translate tholkaappiyam into English.
 
+Pandit S. Subrahmanya Sastri (1890-1978) was the first person to Translate tholkaappiyam into English.
     """)
 
 def display_adhikaaram():
