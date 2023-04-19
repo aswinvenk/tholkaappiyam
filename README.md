@@ -6,7 +6,9 @@ Tholkaappiyam is the most ancient extant Tamil grammar text and the oldest extan
 In order to make people all over the world understand Tamil, **i18n Solutions Salem**, have developed this package.
 
 > Developed by i18nSolutions <i18nsolutions@gmail.com> 
+
 > Backend Developer : Aswin Venkat <aswinvenk8@gmail.com>
+
 > Data Creation : Pugazhendi Neduncheralathan, Sai Sidhartha, Chandru T, Yashika Murugesan, Abisheak Sabari, Bala Murugan, Niyazuddeen Navab, Gokula krishnan
 
 Installation
